@@ -1,1 +1,2 @@
 https://myaccount.google.com/lesssecureapps
+https://www.google.com/accounts/DisplayUnlockCaptcha
